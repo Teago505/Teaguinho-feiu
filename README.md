@@ -5,7 +5,7 @@
     <img src="https://pbs.twimg.com/profile_images/821507417641025536/jbg_Sf6n.jpg" width="25%">
     <h3>Me chamo Tiago Gabriel Dusman Hoepfner, sou estudante no alura, estou fazendo um curso de HTML, javascript e CSS</h3>
     <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teaguinho-feiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teaguinho-feiu&layout=compact">
     <br>
       <h3>Minhas Redes Sociais:</h3>
     <a href="https://twitter.com/teaguinho_feiu">

@@ -2,10 +2,10 @@
   <br>
   <h2 align="center">Sobre Mim</h2>
   <div align="center">
-    <img src="./foto-minha.jpg" width="25%">
+    <img src="https://github.com/Teaguinho-feiu/Teaguinho-feiu/blob/main/foto_minha.jpg?raw=true" width="25%">
     <h3>Me chamo Tiago Gabriel Dusman Hoepfner, sou estudante no alura, estou fazendo um curso de HTML, javascript e CSS</h3>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teaguinho-feiu&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teaguinho-feiu&layout=compact&&theme=github_dark">
     <br>
       <h3>Minhas Redes Sociais:</h3>
     <a href="https://twitter.com/teaguinho_feiu">

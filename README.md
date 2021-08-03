@@ -2,7 +2,7 @@
   <br>
   <h2 align="center">Sobre Mim</h2>
   <div align="center">
-    <img src="https://pbs.twimg.com/profile_images/821507417641025536/jbg_Sf6n.jpg" width="25%">
+    <img src="./foto-minha.jpg" width="25%">
     <h3>Me chamo Tiago Gabriel Dusman Hoepfner, sou estudante no alura, estou fazendo um curso de HTML, javascript e CSS</h3>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teaguinho-feiu&layout=compact">

@@ -1,4 +1,7 @@
-### Hi there 👋
+# Seja bem vindo ao meu GitHub 👋
+<br>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Teaguinho-feiu&amp;show_icons=true&amp;layout=compact&amp;theme=tokyonight" rel="nofollow">
+
 
 <!--
 **Teaguinho-feiu/Teaguinho-feiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

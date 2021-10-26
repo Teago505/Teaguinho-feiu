@@ -57,7 +57,6 @@
     />
   </a>
 </p>
-<p align="center">@teaguinho_feiu</p>
 
 <p align="center">
       <img src="https://github.com/LuanderFarias/teaguinho-feiu/blob/output/github-contribution-grid-snake.svg">

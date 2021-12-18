@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Seja bem vindo ao meu github</h1></img>
 
-<h4 align="center">Me chamo Tiago Gabriel Dusman Hoepfner, sou estudante no alura, estou fazendo um curso de HTML, javascript e CSS</h4>
+<h4 align="center">Me chamo Tiago Gabriel Dusman Hoepfner, trabalho com HTML, javascript e css</h4>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Teaguinho-feiu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">

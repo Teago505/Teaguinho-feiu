@@ -50,7 +50,7 @@
       align="center"
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ZP7fGys">
   </a>
-  <a href="https://www.youtube.com/channel/https://www.youtube.com/channel/UCswxFcJ7dS3WI92-8ZUfB0w">
+  <a href="https://www.youtube.com/channel/UCswxFcJ7dS3WI92-8ZUfB0w">
     <img
       align="center"
       src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"

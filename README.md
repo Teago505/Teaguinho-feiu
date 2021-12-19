@@ -45,7 +45,7 @@
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
     />
   </a>
-  <a href="https://discord.gg/ZP7fGys">
+  <a href="">
     <img
       align="center"
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ZP7fGys">

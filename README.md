@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Seja bem vindo ao meu github</h1></img>
+<h1 align="center">Seja bem vindo ao meu github</h1></img>
 
 <h4 align="center">Me chamo Tiago Gabriel Dusman Hoepfner, trabalho com HTML, javascript e css</h4>
 

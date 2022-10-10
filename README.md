@@ -17,6 +17,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teaguinho-feiu&show_icons=true&layout=compact&theme=tokyonight"
     />
   </a>
+  <a href="https://wakatime.com/@e798efcc-4119-4645-84e0-390d48ed24b4"><img src="https://wakatime.com/badge/user/e798efcc-4119-4645-84e0-390d48ed24b4.svg" alt="Total time coded since Aug 24 2022" /></a>
 </p>
 
 <h3 align="center">Linguagens e feramentas que uso:</h3>
